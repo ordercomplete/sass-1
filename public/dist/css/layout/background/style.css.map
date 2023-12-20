@@ -1,1 +1,10 @@
-{"version":3,"sourceRoot":"","sources":["../../../../../src/layout/background/style.scss"],"names":[],"mappings":"AAAQ;AAER;EACI;EACA","file":"style.css"}
+{
+  "version": 3,
+  "sourceRoot": "",
+  "sources": [
+    "../../../../../src/layout/background/style.scss"
+  ],
+  "names": [],
+  "mappings": "AAAQ;AAER;EACE;EAEA",
+  "file": "style.css"
+}
